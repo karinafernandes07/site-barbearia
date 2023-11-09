@@ -258,8 +258,8 @@ font-size: 18px;
   .enviar{
     width: 40px;
     padding: 15px 0;
-    background: #c78c19;
-    color: #fefefe;
+    background: orange;
+    color: white;
     font-weight: bold;
     font-size: 18px;
     border: none;
@@ -269,7 +269,7 @@ font-size: 18px;
   }
 
 .enviar:houver {
-    background-color: #c78c19;
+    background-color: darkorange;
     transform: scale(1.2);
 }
 
